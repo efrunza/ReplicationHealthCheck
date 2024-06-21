@@ -4,7 +4,7 @@
 
 This article provides details about how to implement a **SQL Server replication's health check using Azure Durable functions**.
 
-![Components communication's diagram](./Images/ReplicationHealthCheck1.)
+![Components communication's diagram](./Images/ReplicationHealthCheck1.png)
 
 ## Online article
 Details about this project can be read in my blog's article from here: 
