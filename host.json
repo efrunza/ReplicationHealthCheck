@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "extensions": {
+    "http": {
+      "routePrefix": ""
+    },
+    "durableTask": {
+      "HubName": "TestingHub9"
+    },
+    "serviceBus": {
+      "maxConcurrentCalls": 5,
+      "autoCompleteMessages": false,
+      "maxAutoLockRenewalDuration": "00:04:00"
+    }
+  }
+}
